@@ -69,7 +69,7 @@ void pchar(stack_t **stack, unsigned int line_number)
 /**
  * pstr - s
  * @stack: Double linked list
- * @line_number: File line execution
+ * @line_number: File lines execution
  */
 void pstr(stack_t **stack, unsigned int line_number)
 {
